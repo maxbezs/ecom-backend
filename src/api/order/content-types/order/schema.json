@@ -13,7 +13,7 @@
   "attributes": {
     "stripeId": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "products": {
       "type": "json"
